@@ -1,0 +1,1234 @@
+# JOBSHIELD — COMPLETE WEBSITE REDESIGN AND FUNCTIONAL ENHANCEMENT PROMPT
+
+## IMPORTANT: MODIFY THE EXISTING PROJECT
+
+You are working on an existing JOBSHIELD website created using Google AI Studio.
+
+Your task is to improve, redesign, complete and enhance the existing application.
+
+Do not create an entirely new unrelated project.
+
+Do not remove the existing features that are already implemented correctly.
+
+Do not unnecessarily change the product concept, project name, tagline, architecture or finalized five-module solution.
+
+First inspect the existing project, its components, routes, authentication implementation, pages, styling, API connections and existing functionality.
+
+Then make the required changes systematically.
+
+The current website has an overly white appearance, limited use of background colours, only one login interface, insufficient visual distinction between sections, missing realistic background imagery in several areas and some features that do not work correctly.
+
+Fix all these issues.
+
+The final result must look like a premium, modern, realistic cybersecurity SaaS platform.
+
+# 1. PROJECT IDENTITY
+
+Product: JOBSHIELD
+
+Tagline: Protecting Careers Before Scammers Destroy Them.
+
+Description:
+
+JOBSHIELD is an AI-powered Recruitment Trust & Protection Platform that helps students, fresh graduates and job seekers identify potentially fraudulent recruitment opportunities.
+
+It analyses:
+- Offer letters
+- Recruitment emails
+- Job descriptions
+- Websites and URLs
+- WhatsApp messages
+- Telegram messages
+- Screenshots
+- Recruitment advertisements
+
+The platform combines AI-assisted analysis, company and recruiter consistency checks, threat intelligence, evidence correlation and explainable risk assessment.
+
+The five finalized modules must remain:
+
+1. Unified Recruitment Scanner
+2. Recruitment Trust Intelligence
+3. Community Threat Intelligence
+4. User Protection Centre
+5. User and Admin Management
+
+Do not add unnecessary modules.
+
+# 2. COMPLETE VISUAL REDESIGN — IMPORTANT
+
+The biggest visual problem with the current website is the excessive use of white backgrounds.
+
+Redesign the entire website using a balanced combination of background colours, multiple shades, subtle gradients, realistic images and readable content areas.
+
+The website must not look like a plain white template.
+
+However, do not use too many unrelated colours.
+
+Use a limited, coordinated palette with different shades of the same colour families.
+
+The design should look premium, attractive, professional and trustworthy.
+
+## 2.1 Main colour palette
+
+Use these colours as the primary design system.
+
+### Navy and blue family
+- Deep Navy: #101C36
+- Midnight Blue: #142747
+- Dark Blue: #1D3557
+- Primary Blue: #2563EB
+- Royal Blue: #3156B8
+- Light Blue: #DBEAFE
+- Pale Blue: #EFF6FF
+
+### Teal and cyan family
+- Dark Teal: #115E59
+- Teal: #0F766E
+- Cyan: #0891B2
+- Light Teal: #CCFBF1
+- Pale Teal: #F0FDFA
+
+### Neutral family
+- Slate: #334155
+- Medium Grey: #64748B
+- Light Grey: #E2E8F0
+- Soft Background: #F1F5F9
+- White: #FFFFFF
+
+### Status colours
+- Green: #16A34A
+- Light Green: #DCFCE7
+- Amber: #D97706
+- Light Amber: #FEF3C7
+- Red: #DC2626
+- Light Red: #FEE2E2
+
+## 2.2 Colour usage rules
+
+Do not use white as the background for every section.
+
+Use a balanced combination:
+
+- Deep navy sections for important hero areas and selected banners.
+- Light blue backgrounds for informational sections.
+- Soft slate backgrounds for dashboard areas.
+- Pale teal backgrounds for trust and verification sections.
+- Light neutral backgrounds for tables and forms.
+- White cards only where they improve readability.
+- Dark navy sidebars for authenticated dashboards.
+
+Use two or three related colours within a section rather than introducing a new colour everywhere.
+
+Use subtle gradients, not excessively bright gradients.
+
+The page must have visual depth.
+
+Avoid a completely white page with only blue buttons.
+
+# 3. LANDING PAGE — COMPLETE REDESIGN
+
+Redesign the landing page from top to bottom.
+
+## 3.1 Navigation bar
+
+Use:
+- Deep navy or dark blue navigation background.
+- White JOBSHIELD logo and text.
+- Light navigation text.
+- Subtle hover effects.
+- Cyan or blue accent for active navigation.
+- Contrasting Get Started button.
+
+Navigation:
+
+- Home
+- How It Works
+- Features
+- Why JOBSHIELD
+- Safety Guide
+- About Us
+- Sign In
+- Get Started
+
+The navbar should remain visually attractive when scrolling.
+
+On mobile, use a responsive navigation drawer.
+
+## 3.2 Hero section
+
+Use a visually rich two-column layout.
+
+Left side:
+
+Heading:
+
+"Protect Your Career Before Scammers Destroy It."
+
+Supporting text:
+
+"Verify recruitment opportunities, investigate suspicious offer letters, check recruiter information and identify potential job scams with AI-powered recruitment security."
+
+Buttons:
+- Get Started
+- Explore How It Works
+
+Below the buttons, show three short trust statements:
+- Evidence-Based Analysis
+- Recruitment Risk Detection
+- Safer Job Applications
+
+Right side:
+
+Use a realistic photograph of a student or young professional reviewing a job offer on a laptop.
+
+The photograph should look like a real study or office environment, not a generic AI cybersecurity illustration.
+
+Use a deep navy-to-blue background with subtle blue and teal highlights.
+
+Do not make the hero completely white.
+
+## 3.3 Recruitment threats section
+
+Heading:
+
+"Not Every Job Opportunity Is What It Claims to Be."
+
+Use a soft blue or slate background.
+
+Create attractive cards for:
+
+1. Fake Offer Letters
+2. Fake HR Representatives
+3. Registration Fee Scams
+4. Fake Internship Offers
+5. Fraudulent Job Websites
+6. Telegram Task Scams
+7. Work-from-Home Fraud
+8. Identity Theft
+
+Use:
+- Different subtle shades of blue and teal.
+- Small, relevant icons.
+- Short descriptions.
+- Hover effects.
+- Consistent card dimensions.
+
+## 3.4 How JOBSHIELD works
+
+Use a pale blue or light teal background.
+
+Create a five-step horizontal process on desktop and vertical process on mobile.
+
+1. Submit
+2. Analyse
+3. Verify
+4. Assess
+5. Protect
+
+Use numbered visual indicators and connecting lines.
+
+## 3.5 Five core features
+
+Create five large feature cards.
+
+Each card should have a slightly different but coordinated background treatment.
+
+Feature 1 — Unified Recruitment Scanner:
+Blue background accents.
+
+Feature 2 — Recruitment Trust Intelligence:
+Teal background accents.
+
+Feature 3 — Community Threat Intelligence:
+Slate and blue accents.
+
+Feature 4 — User Protection Centre:
+Teal and green accents.
+
+Feature 5 — User and Admin Management:
+Deep blue accents.
+
+Use relevant realistic images or carefully selected visual illustrations.
+
+Each card must have a working Learn More action.
+
+## 3.6 Why JOBSHIELD?
+
+Use a dark navy background section with white text and cyan highlights.
+
+Show:
+- Multi-format recruitment scanning.
+- Company and recruiter consistency checks.
+- Explainable risk reports.
+- Evidence-based verification.
+- Community threat intelligence.
+- Practical protection guidance.
+
+## 3.7 Awareness section
+
+Use a light blue background.
+
+Display realistic image cards covering:
+- Fake HR scams
+- Fake internship offers
+- Registration fee fraud
+- Telegram task scams
+- Work-from-home scams
+- Phishing
+
+Each card should open its respective awareness article.
+
+## 3.8 Final CTA
+
+Use a dark blue or navy background.
+
+Heading:
+
+"Don't Trust Every Job Offer. Verify It First."
+
+Buttons:
+- Create Account
+- Sign In
+
+## 3.9 Footer
+
+Use deep navy.
+
+Include:
+- About JOBSHIELD
+- Features
+- How It Works
+- Safety Guide
+- Contact
+- Privacy Policy
+- Terms and Conditions
+- Disclaimer
+
+Ensure good contrast and readable text.
+
+# 4. MULTIPLE LOGIN SYSTEM — CRITICAL REQUIREMENT
+
+The current website has only one sign-in page.
+
+Replace this with a proper login selection system.
+
+When a visitor clicks Sign In or Get Started, show an attractive account selection screen.
+
+There must be two different login options:
+
+1. STUDENT / USER LOGIN
+2. ADMIN LOGIN
+
+These must not open the same dashboard.
+
+They must not have the same navigation.
+
+They must not have the same permissions.
+
+They must not show the same features.
+
+Each account type must have its own sign-in interface and dashboard.
+
+## 4.1 Login selection page
+
+Create a visually attractive role-selection page.
+
+Heading:
+
+"Choose Your JOBSHIELD Workspace"
+
+Description:
+
+"Select the appropriate account to access your recruitment security workspace."
+
+Show two large cards.
+
+### Card 1 — Student / User Login
+
+Visual:
+- Realistic photograph of a student using a laptop in a modern college or study environment.
+- Soft blue and cyan background.
+- Professional security-related accents.
+
+Title:
+Student / User Login
+
+Description:
+"Verify job opportunities, scan offer letters, investigate suspicious recruiters and protect yourself from recruitment fraud."
+
+Features:
+- Recruitment Scanner
+- Trust Intelligence
+- Community Threats
+- Protection Centre
+- Scan History
+- Saved Reports
+
+Button:
+Continue as Student
+
+This opens the Student Login page.
+
+### Card 2 — Admin Login
+
+Visual:
+- Realistic photograph of a cybersecurity professional or administrator working in a modern security operations office.
+- Deep navy, teal and dark blue background.
+- Professional dashboard-inspired visual accents.
+
+Title:
+Administrator Login
+
+Description:
+"Monitor platform activity, manage users, review suspicious reports, moderate community threats and manage security records."
+
+Features:
+- Admin Dashboard
+- User Management
+- Scan Monitoring
+- Community Moderation
+- Threat Records
+- Audit Logs
+- System Health
+
+Button:
+Continue as Admin
+
+This opens the Admin Login page.
+
+The two cards must look visually distinct but remain part of the same JOBSHIELD brand.
+
+Do not display a public Admin Create Account option.
+
+## 4.2 Student login page
+
+Create a separate Student Login page.
+
+Design:
+- Realistic background image of a student studying or reviewing recruitment information.
+- Deep blue and light blue colour combination.
+- Subtle cyan highlights.
+- Semi-transparent login card or a clean, readable card over the image.
+- Professional visual hierarchy.
+
+Heading:
+
+"Welcome Back, Job Seeker"
+
+Supporting text:
+
+"Sign in to protect your recruitment journey."
+
+Fields:
+- Email Address
+- Password
+
+Controls:
+- Password visibility toggle
+- Forgot Password
+- Remember Me, where securely supported
+- Sign In
+- Continue with Google
+- Create Student Account
+- Back to Login Selection
+
+After successful authentication, redirect to Student Dashboard.
+
+## 4.3 Student registration page
+
+Fields:
+- Full Name
+- Email Address
+- Password
+- Confirm Password
+- College / Institution (optional)
+- Terms and Privacy acceptance
+
+Implement:
+- Form validation
+- Password confirmation
+- Secure password hashing
+- Email verification
+- Account creation
+- Student role assignment
+
+Public registration must automatically assign the Student role.
+
+Never allow users to select Admin while registering.
+
+## 4.4 Admin login page
+
+Create a completely separate Admin Login page.
+
+Design:
+- Realistic cybersecurity operations office background.
+- Deep navy and dark blue background.
+- Teal and cyan highlights.
+- Premium dark security interface.
+- Clear, readable login panel.
+
+Heading:
+
+"Administrator Access"
+
+Supporting text:
+
+"Securely manage and monitor the JOBSHIELD platform."
+
+Fields:
+- Administrator Email
+- Password
+
+Controls:
+- Password visibility toggle
+- Forgot Password, if configured
+- Secure Sign In
+- Back to Login Selection
+
+Admin authentication must check the actual Admin role on the backend.
+
+A student account must never be able to access the Admin Dashboard.
+
+Do not use a fake admin login.
+
+Do not expose admin credentials in frontend code.
+
+Admin accounts must be created or assigned through a secure administrative process.
+
+## 4.5 Authentication routing
+
+Implement the following:
+
+Landing Page
+↓
+Sign In / Get Started
+↓
+Login Selection Page
+↓
+Choose Student or Admin
+↓
+Separate Login Page
+↓
+Backend Authentication
+↓
+Role Verification
+↓
+Correct Dashboard
+
+For authenticated users:
+- Student → Student Dashboard.
+- Admin → Admin Dashboard.
+
+If a student attempts to access an admin route:
+- Block access.
+- Return an appropriate authorization error.
+- Redirect to the correct student area.
+
+If an unauthenticated visitor accesses a protected page:
+- Redirect to the appropriate login flow.
+
+# 5. STUDENT DASHBOARD REDESIGN
+
+Keep the existing Student Dashboard features but significantly improve its appearance.
+
+Use:
+- Dark navy sidebar.
+- Blue active navigation.
+- Soft slate page background.
+- White and pale blue cards.
+- Cyan and teal highlights.
+
+Sidebar:
+- Dashboard
+- Recruitment Scanner
+- Trust Intelligence
+- Community Threats
+- Protection Centre
+- Scan History
+- Saved Reports
+- Notifications
+- Profile and Settings
+- Logout
+
+Top navigation:
+- JOBSHIELD logo
+- Page title
+- Start New Scan
+- Notifications
+- User profile
+
+Dashboard overview:
+- Total Scans
+- High-Risk Results
+- Suspicious Results
+- Lower-Risk Results
+- Community Reports
+
+Use actual database data.
+
+Create:
+- Risk distribution chart
+- Recent activity table
+- Quick action cards
+- Scan summary
+- Useful empty states
+
+Use attractive background shades rather than plain white throughout.
+
+Do not display fabricated user activity.
+
+# 6. ADMIN DASHBOARD REDESIGN
+
+The Admin Dashboard must have a different visual identity and different navigation from the Student Dashboard.
+
+Use:
+- Deep navy sidebar.
+- Dark blue page header.
+- Teal highlights.
+- Light slate dashboard background.
+- High-contrast charts and tables.
+
+Sidebar:
+- Overview
+- User Management
+- Scan Monitoring
+- Community Moderation
+- Company Records
+- Domain and Threat Indicators
+- Evidence Records
+- Audit Logs
+- System Health
+- Settings
+- Logout
+
+Dashboard statistics:
+- Total Users
+- Total Scans
+- High-Risk Findings
+- Suspicious Findings
+- Pending Reports
+- Confirmed Threat Indicators
+
+Charts:
+- User Registration Trend
+- Scan Activity
+- Risk Distribution
+- Scanner Usage
+- Community Report Status
+
+All data must come from actual backend records.
+
+Admin functionality must be implemented separately.
+
+# 7. DIFFERENT BACKGROUND IMAGES FOR LOGIN AND FEATURES
+
+Use realistic, relevant background imagery throughout the website.
+
+Do not reuse one image for every section.
+
+Use a different visual for each important feature.
+
+## 7.1 Login selection page
+
+Use two distinct images:
+- Student studying with laptop.
+- Administrator in a cybersecurity operations environment.
+
+## 7.2 Student login
+
+Use:
+- Student reviewing a job offer.
+- Modern college or study environment.
+- Natural lighting.
+- Professional appearance.
+
+## 7.3 Admin login
+
+Use:
+- Cybersecurity administrator.
+- Modern operations office.
+- Multiple monitors with professional dashboard displays.
+- Realistic office environment.
+
+## 7.4 Offer Letter Scanner
+
+Use:
+- Professional desk.
+- Laptop showing a recruitment document.
+- Offer letter and document-verification context.
+
+## 7.5 Email Scanner
+
+Use:
+- Professional email-security context.
+- Laptop or monitor displaying an email interface.
+- Subtle cybersecurity visual elements.
+
+## 7.6 URL Scanner
+
+Use:
+- Website security analysis context.
+- Laptop showing domain inspection.
+- Professional technology environment.
+
+## 7.7 Job Description Scanner
+
+Use:
+- Student or recruiter reviewing a job description.
+- Modern office or study setting.
+
+## 7.8 Screenshot and Message Scanner
+
+Use:
+- Smartphone showing a recruitment conversation.
+- Professional desk setting.
+- Realistic communication context.
+
+## 7.9 Recruitment Trust Intelligence
+
+Use:
+- Company verification context.
+- Professional office.
+- Business research environment.
+
+## 7.10 Community Threat Intelligence
+
+Use:
+- People collaborating around a laptop.
+- Cybersecurity awareness context.
+
+## 7.11 User Protection Centre
+
+Use:
+- Student learning about online safety.
+- Modern educational environment.
+
+## 7.12 Admin Moderation
+
+Use:
+- Administrator reviewing reports.
+- Security operations environment.
+
+## 7.13 Important image implementation rules
+
+Use high-quality, realistic photographs.
+
+Avoid:
+- Cartoon illustrations.
+- Unrelated generic technology images.
+- Repeating the same image everywhere.
+- Random decorative backgrounds.
+- Images that make text unreadable.
+
+Use suitable overlays so that text remains legible.
+
+For image-backed sections, use appropriate dark or light overlays based on text colour.
+
+Do not use heavy images as backgrounds behind data tables if they reduce readability. Use subtle background imagery or visual accents instead.
+
+# 8. FEATURE MODULES — VISUAL AND FUNCTIONAL ENHANCEMENTS
+
+Keep all five modules and improve their visual presentation.
+
+## MODULE 1 — UNIFIED RECRUITMENT SCANNER
+
+Provide five separate scanner interfaces:
+
+1. Offer Letter Scanner
+2. Email Scanner
+3. URL Scanner
+4. Job Description Scanner
+5. Screenshot and Message Scanner
+
+Each must have:
+- Relevant background visual or image banner.
+- Clear input interface.
+- File upload or text entry.
+- Validation.
+- Processing state.
+- Analysis results.
+- Risk score.
+- Findings.
+- Evidence.
+- Recommendations.
+
+### Offer Letter Scanner
+
+Allow PDF and image uploads.
+
+Extract:
+- Company
+- Recruiter
+- Email
+- Position
+- Salary
+- Joining date
+- Work location
+- Website
+- Contact information
+- Payment instructions
+
+Check relevant inconsistencies and suspicious claims.
+
+### Email Scanner
+
+Allow pasted email content and supported uploads.
+
+Analyse:
+- Sender
+- Reply-to
+- Domain
+- Message
+- Links
+- Attachments
+- Urgency
+- Payment requests
+- Credential requests
+
+Inspect SPF, DKIM and DMARC only when original headers are available.
+
+### URL Scanner
+
+Analyse:
+- URL structure
+- Domain
+- Threat intelligence
+- RDAP information
+- DNS
+- HTTPS certificate
+- Redirects
+- Company-domain consistency
+
+Protect against SSRF, private IP access, localhost and unsafe redirects.
+
+### Job Description Scanner
+
+Detect:
+- Unrealistic salary
+- Guaranteed selection
+- Registration fees
+- Training fees
+- Suspicious work-from-home promises
+- Task scams
+- Missing employer identity
+- Unnecessary sensitive-data requests
+
+### Screenshot and Message Scanner
+
+Allow:
+- WhatsApp screenshots
+- Telegram screenshots
+- Email screenshots
+- Recruitment advertisements
+
+Use OCR.
+
+Show extracted text for user correction before analysis.
+
+### Common result page
+
+Display:
+- Risk score
+- Risk category
+- Evidence confidence
+- Extracted information
+- Security findings
+- Positive observations
+- Missing information
+- Sources
+- Recommendations
+
+Actions:
+- Save Report
+- Download Report
+- Rescan
+- Report to Community
+
+All actions must work.
+
+# 9. MODULE 2 — RECRUITMENT TRUST INTELLIGENCE
+
+Create:
+- Company Verification
+- Recruiter Verification
+- Opportunity Verification
+- Recruitment Evidence Graph
+
+Use teal and blue visual accents.
+
+Company checks:
+- Company identity
+- Official website
+- Domain consistency
+- Public information
+- Recruitment announcements
+
+Recruiter checks:
+- Name
+- Email
+- Claimed company
+- Supporting public information
+- Official company evidence
+
+Opportunity checks:
+- Company
+- Recruiter
+- Email
+- Offer
+- Job description
+- Application URL
+- Payment request
+
+Evidence Graph:
+
+Use React Flow.
+
+Connect:
+
+Company → Official Domain → Recruiter → Email → Offer Letter → Job Description → Application URL → Payment Request → Supporting Evidence.
+
+Allow:
+- Zoom
+- Pan
+- Recenter
+- Click node
+- View relationship
+- Show evidence
+- Show status
+
+Statuses:
+- Confirmed
+- Supported
+- Unverified
+- Contradictory
+- Suspicious
+- Missing Evidence
+
+Do not fabricate graph relationships.
+
+# 10. MODULE 3 — COMMUNITY THREAT INTELLIGENCE
+
+Create:
+- Recent Reports
+- Confirmed Threats
+- Reports Under Review
+- Search
+- Filters
+- Submit Report
+
+Report categories:
+- Fake Job Offers
+- Fake Internships
+- Fake Placement Drives
+- Recruiter Impersonation
+- Fake Websites
+- Registration Fee Scams
+- Telegram Task Scams
+- Work-from-Home Scams
+- Suspicious Emails
+
+Implement report submission and moderation.
+
+Statuses:
+- Under Review
+- Corroborated
+- Confirmed
+- Rejected
+
+Only authorized administrators can moderate reports.
+
+Protect personal information.
+
+# 11. MODULE 4 — USER PROTECTION CENTRE
+
+Create visually attractive educational pages for:
+
+- Before You Apply
+- Before You Pay
+- Before You Share Documents
+- If You Suspect a Scam
+- If You Have Already Paid
+- Awareness Library
+
+Use:
+- Light teal backgrounds
+- Blue informational cards
+- Green safety indicators
+- Amber warning panels
+- Red emergency warnings
+
+Include practical instructions.
+
+If the user has paid:
+- Stop further payments.
+- Preserve evidence.
+- Contact bank or payment provider.
+- Call 1930 in India.
+- Report at https://cybercrime.gov.in.
+
+Do not claim that JOBSHIELD can recover money.
+
+# 12. MODULE 5 — USER AND ADMIN MANAGEMENT
+
+Maintain separate user and admin permissions.
+
+Student:
+- Own scans
+- Own reports
+- Saved reports
+- Community submissions
+- Protection Centre
+- Profile
+- Settings
+
+Admin:
+- User management
+- Scan monitoring
+- Community moderation
+- Company records
+- Threat indicators
+- Evidence records
+- Audit logs
+- System health
+
+Backend authorization is mandatory.
+
+# 13. FIX ALL NON-FUNCTIONAL FEATURES
+
+Inspect every page and every visible control.
+
+Check:
+- Buttons
+- Links
+- Forms
+- Dropdowns
+- Sidebar items
+- Navigation
+- Upload controls
+- Search
+- Filters
+- Charts
+- Tabs
+- Save actions
+- Download actions
+- Login
+- Logout
+- Profile
+- Settings
+- Admin controls
+
+Fix:
+- Dead buttons
+- Broken navigation
+- Missing routes
+- Invalid form submission
+- Incorrect redirects
+- Missing validation
+- Incorrect role routing
+- Empty feature pages
+- Broken uploads
+- API integration failures
+- Incorrect report actions
+
+Do not use alert boxes as substitutes for real functionality.
+
+Every visible action must either:
+1. Perform the intended action, or
+2. Clearly show why it is unavailable and what configuration is required.
+
+# 14. REAL DATA AND API INTEGRATION
+
+Preserve and complete the existing integrations.
+
+Gemini:
+- AI-assisted analysis
+- Structured extraction
+- Explanations
+- Suspicious-claim detection
+
+Google Web Risk:
+- URL threat intelligence
+
+ICANN RDAP:
+- Domain registration information
+
+OCR:
+- Screenshot and document text extraction
+
+MongoDB:
+- Users
+- Scans
+- Reports
+- Companies
+- Domains
+- Evidence
+- Audit logs
+
+Do not claim a service is connected when it is not.
+
+Keep all credentials in backend environment variables.
+
+If a service is not configured, display:
+
+"Not Configured"
+
+If a service is unavailable, display:
+
+"Temporarily Unavailable"
+
+Do not replace failed real integrations with fake success results.
+
+# 15. RISK SCORING
+
+Maintain the finalized risk categories:
+
+0–29: Lower Risk
+
+30–59: Suspicious
+
+60–100: High Risk
+
+Additional state:
+
+Insufficient Evidence.
+
+Keep risk score separate from evidence confidence.
+
+Explain the findings and evidence.
+
+Do not present risk scores as calibrated probabilities of fraud.
+
+Do not automatically declare an opportunity genuine.
+
+# 16. STUDENT AND ADMIN DATA SEPARATION
+
+This is mandatory.
+
+Student Dashboard must show only student-specific features and authorized records.
+
+Admin Dashboard must show only admin-specific management features and authorized platform information.
+
+Student users must never access:
+- Admin moderation
+- User management
+- Audit logs
+- Admin settings
+- Restricted threat-management operations
+
+Admin users must have a separate navigation layout.
+
+All access checks must be performed on the backend.
+
+# 17. RESPONSIVE DESIGN
+
+Test:
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+Ensure:
+- Responsive navigation
+- Mobile sidebar
+- Responsive cards
+- Responsive tables
+- Readable forms
+- Proper image scaling
+- No horizontal overflow
+- Touch-friendly controls
+
+# 18. FINAL QUALITY CHECK
+
+Before completing the changes, verify all of the following.
+
+### Visual quality
+- Landing page has multiple coordinated background shades.
+- No excessive white-only appearance.
+- Navbar is attractive.
+- Hero section has a realistic image.
+- All major feature sections have suitable visual treatments.
+- Login selection page has two distinct cards.
+- Student login has a realistic background image.
+- Admin login has a different realistic background image.
+- Each major feature has relevant imagery or a carefully designed visual banner.
+- Student and Admin dashboards have different appearances.
+- Colours remain coordinated and professional.
+
+### Login quality
+- Student Login works.
+- Student Registration works.
+- Admin Login is separate.
+- Admin role is restricted.
+- Student cannot access Admin Dashboard.
+- Correct redirect after login.
+- Logout works.
+
+### Functional quality
+- All five modules are present.
+- All five scanner interfaces exist.
+- Forms validate.
+- Uploads work.
+- Analysis workflow is connected.
+- Reports display evidence.
+- Report download works.
+- Community reports can be submitted.
+- Admin can moderate reports.
+- Dashboard data is accurate.
+- Empty states are meaningful.
+- No dead buttons.
+
+### Security quality
+- Backend role authorization.
+- Secure authentication.
+- API keys protected.
+- File uploads validated.
+- URL inspection protected.
+- User data separated.
+- Sensitive information protected.
+
+# 19. FINAL INSTRUCTION
+
+Now inspect and improve the existing JOBSHIELD website.
+
+Do not merely describe the changes.
+
+Actually modify the existing code and application.
+
+Preserve working functionality.
+
+Implement the two separate login systems:
+
+1. Student / User Login
+2. Admin Login
+
+Give each login:
+- A separate login page.
+- A different realistic background image.
+- A different colour combination.
+- Different dashboard.
+- Different navigation.
+- Different functionality.
+- Different permissions.
+
+Redesign the landing page and all major feature sections using coordinated background colours and realistic images.
+
+Make the website visually attractive without excessive colours or excessive white backgrounds.
+
+Fix the non-functional features.
+
+Do not remove any of the five finalized modules.
+
+Do not fabricate data, integrations, verification results or authentication.
+
+Complete the improvements and then provide a clear report explaining:
+- What was redesigned.
+- What login systems were implemented.
+- What features were fixed.
+- Which APIs are connected.
+- Which integrations still require credentials.
+- What testing was performed.
+- What remains incomplete.
+
+The final result must be a complete, attractive, professional and functional JOBSHIELD platform.
+
+**JOBSHIELD — Protecting Careers Before Scammers Destroy Them.**

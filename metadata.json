@@ -1,0 +1,6 @@
+{
+  "name": "JOBSHIELD",
+  "description": "AI-powered Recruitment Trust & Protection Platform — Protecting Careers Before Scammers Destroy Them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
